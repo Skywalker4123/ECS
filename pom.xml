@@ -164,7 +164,7 @@
 	<repositories>
     <repository>
       <id>${NEXUS-GRP-REPO}</id>
-      <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
+      <url>http://34.203.201.6:8081/repository/maven-releases/</url>
     </repository>
   </repositories>
 </project>
