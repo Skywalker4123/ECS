@@ -163,8 +163,8 @@
     </build>
 	<repositories>
     <repository>
-      <id>maven-central-repository</id>
-      <url>http://34.203.201.6:8081/repository/maven-central-repository/</url>
+      <id>${NEXUS-GRP-REPO}</id>
+      <url>http://${NEXUSIP}:${NEXUSPORT}/repository/${NEXUS-GRP-REPO}/</url>
     </repository>
   </repositories>
 </project>
