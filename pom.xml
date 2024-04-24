@@ -163,8 +163,8 @@
     </build>
 	<repositories>
     <repository>
-      <id>maven-releases</id>
-      <url>http://34.203.201.6:8081/repository/maven-releases/</url>
+      <id>maven-central-repository</id>
+      <url>http://34.203.201.6:8081/repository/maven-central-repository/</url>
     </repository>
   </repositories>
 </project>
